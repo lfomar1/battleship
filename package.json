@@ -1,0 +1,19 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "battleship game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfomar1/battleship.git"
+  },
+  "author": "Lucas Omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfomar1/battleship/issues"
+  },
+  "homepage": "https://github.com/lfomar1/battleship#readme"
+}
